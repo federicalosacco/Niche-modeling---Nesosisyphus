@@ -1,0 +1,45 @@
+﻿ID;Species;lat;long ;Collecting period;data type;Collector
+1;Nesosisyphus rotundatus;-20.213075;57.50825;18.XI.1944;historical;J. Vinson
+2;Nesosisyphus rotundatus;-20.2138277777778;57.4987611111111;I.1940;historical;J. Vinson
+3;Nesosisyphus vicinus;-20.3970722222222;57.4442583333333;"-20.XII.1937
+13.I.1938 XII.1956";historical;J. Vinson
+4;Nesosisyphus vicinus;-20.4169555555556;57.433425;-20.XII.1937;historical;J. Vinson
+5;Nesosisyphus vicinus;-20.2777666666667;57.5645361111111;XI.1944;historical;J. Vinson
+6;Nesosisyphus vicinus;-20.4295027777778;57.4801583333333;XI.1945;historical;J. Vinson
+7;Nesosisyphus vicinus;-20.4511361111111;57.476125;;historical;J. Vinson
+8;Nesosisyphus vicinus;-20.4415111111111;57.4722888888889;"XI.1938 
+X.1957";historical;J. Vinson
+9;Nesosisyphus vicinus;-20.3190138888889;57.5098972222222;9.XII.1933;historical;J. Vinson
+10;Nesosisyphus vicinus;-20.4415111111111;57.4722888888889;15-17.II.2021;recent;Tarasov S. & Rossini M.
+11;Nesosisyphus vicinus;-20.4333333333333;57.4166666666667;XI.1956;historical;J. Vinson
+12;Nesosisyphus vicinus;-20.4166666666667;57.4166666666667;VI.2004;recent;﻿Saoud M. Motala & Frank-Thorsten Krell
+13;Nesosisyphus regnardi;-20.2108361111111;57.4898333333333;X.1944;historical;J. Vinson
+14;Nesosisyphus regnardi;-20.2132972222222;57.5028861111111;"XI.1944
+X.1945";historical;J. Vinson
+15;Nesosisyphus regnardi;-20.1794194444444;57.5838361111111;;historical;J. Vinson
+16;Nesosisyphus regnardi;-20.1986027777778;57.5293972222222;1893;historical;Alluaud
+17;Nesosisyphus regnardi;-20.1986027777778;57.5294;"XII.1937
+XI.1944
+X.1957";historical;J. Vinson
+18;Nesosisyphus regnardi;-20.2166666666667;57.5166666666667;VI.2004;recent;﻿Saoud M. Motala & Frank-Thorsten Krell
+19;Nesosisyphus regnardi;-20.1986027777778;57.5294;2021;recent;Tarasov S. & Rossini M.
+20;Nesosisyphus regnardi;-20.1986083333333;57.5294;2021;recent;Tarasov S. & Rossini M.
+21;Nesosisyphus regnardi;-20.1986;57.5294;2021;recent;Tarasov S. & Rossini M.
+22;Nesosisyphus regnardi;-20.2001;57.5273;2021;recent;Tarasov S. & Rossini M.
+23;Nesosisyphus regnardi;-20.2169055555556;57.5247;2021;recent;Tarasov S. & Rossini M.
+24;Nesosisyphus pygmaeus;-20.2138277777778;57.4987611111111;"X-XII.1944
+XII.1945";historical;J. Vinson
+25;Nesosisyphus pygmaeus;-20.2090388888889;57.4924055555556;X.1944;historical;J. Vinson
+26;Nesosisyphus pygmaeus;-20.3666666666667;57.4333333333333;﻿01-06.VII.2003 VII.2004;recent;﻿Saoud M. Motala & Frank-Thorsten Krell
+27;Nesosisyphus pygmaeus;-20.2123222222222;57.4976611111111;22.II.2021;recent;Tarasov S. & Rossini M.
+28;Nesosisyphus pygmaeus;-20.4467888888889;57.6979333333333;;subfossil;Nick Porch
+29;Nesosisyphus ;-20.4467888888889;57.6979333333333;;subfossil;Nick Porch
+30;Nesosisyphus;-20.446004961003;57.6963215485348;Simulated;subfossil;Simulated
+31;Nesosisyphus;-20.44471160248721;57.698441310578936;Simulated;subfossil;Simulated
+32;Nesosisyphus;-20.44219414130301;57.70360514921461;Simulated;subfossil;Simulated
+33;Nesosisyphus;-20.445722103719064;57.69113663688465;Simulated;subfossil;Simulated
+34;Nesosisyphus;-20.451315141124145;57.697157182895786;Simulated;subfossil;Simulated
+35;Nesosisyphus;-20.446721718890558;57.70411737793645;Simulated;subfossil;Simulated
+36;Nesosisyphus;-20.442814544360886;57.692852277695145;Simulated;subfossil;Simulated
+37;Nesosisyphus;-20.447225819602497;57.67882109274446;Simulated;subfossil;Simulated
+38;Nesosisyphus;-20.43775439627822;57.69654469478744;Simulated;subfossil;Simulated
